@@ -2,8 +2,8 @@
 //  SceneDelegate.swift
 //  TableViews
 //
-//  Created by Juan Bonforti on 28/06/2020.
-//  Copyright © 2020 Juan Bonforti. All rights reserved.
+//  Created by Brais Moure on 25/02/2020.
+//  Copyright © 2020 MoureDev. All rights reserved.
 //
 
 import UIKit
